@@ -105,7 +105,7 @@ module.exports = {
             },
           ],
           '/concepts/': [
-            '/concepts/basic-concepts',
+            '/concepts/ipfs-primer',
             {
               title: 'Subsystems and Components',
               sidebarDepth: 1,
