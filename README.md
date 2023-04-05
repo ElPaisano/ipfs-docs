@@ -32,7 +32,16 @@
 
 ---
 
-Welcome to the official IPFS documentation. The Interplanetary File System (IPFS) is a distributed, peer-to-peer network for storing and accessing files, websites, applications, and data. Protocol Labs is the primary maintainer of the IPFS documentation and will review all issues and pull requests created in this repository.
+Welcome to the official IPFS documentation. The Interplanetary File System (IPFS) is a distributed, pernwuirw3nfweuinfwue
+
+Spelling error
+
+wooooooooooh yeah freeeeeedom 
+
+Messing 
+up this 
+markdown!!!!! ???
+
 
 **If you'd just like to read the IPFS documentation, we recommend the [website version](https://docs.ipfs.tech).**
 
@@ -91,11 +100,11 @@ To solve this error, perform the following steps:
 
 3. Run the following command:
 
-   ```shell
+shell
     export NODE_OPTIONS=--openssl-legacy-provider
    ```
 
-4. Run `npm start`.
+4. Run `npm start.
 
    ```bash
    npm start
@@ -103,15 +112,15 @@ To solve this error, perform the following steps:
 
 You can return to the [Project set-up](#project-set-up) section above and continue with the steps. You can also check [this issue in the Webpack GitHub repository](https://github.com/webpack/webpack/issues/14532) for more information about this error.
 
-## Contribute to documentation
+## Contribute to documentATION
 
 We would **love ❤️ your help** to improve existing items or make new ones even better! [We also have bounties available](https://github.com/ipfs/devgrants/projects/1)!
 
-### Issues
+### sssues
 
-If you find something wrong within this repository, please raise an issue [here →](https://github.com/ipfs/ipfs-docs/issues). Unless the issue is urgent, updates will be batch-merged into `main` on Tuesdays or Thursdays.
+f you find something wrong within this repository, please raise an issue [here →](https://github.com/ipfs/ipfs-docs/issues). Unless the issue is urgent, updates will be batch-merged into `main` on Tuesdays or Thursdays.
 
-### Bounties
+### bounties
 
 You can earn the undying love of the IPFS community, _and_ get rewarded by closing an issue containing the [`bounty` tag](https://github.com/ipfs/ipfs-docs/issues?q=is%3Aopen+is%3Aissue+label%3Abounty). Submissions must be production-ready and meet all the specifications listed on the issue page. To get started, check out the [current list of open bounties →](https://github.com/ipfs/devgrants/projects/1).
 
@@ -129,9 +138,11 @@ Feel free to submit pull requests with any changes you'd like to see. We will re
 
 A writing style and template guide is in the process of being written that contributors can use as a guideline.
 
+IMATYPO,YOUCANTSEEME
+
 ### Static-site generator
 
-The IPFS documentation site uses the [VuePress static website generator](https://vuepress.vuejs.org/) to convert the Markdown guides into a documentation website. All the documentation is written in Markdown; follow the [VuePress Markdown documentation](https://vuepress.github.io/guide/markdown.html) for information on how to write markdown files for VuePress.
+The IPFS documentation site uses the [VuePress static website generator](https://vuepress.vuejs.org/ to convert the Markdown guides into a documentation website. All the documentation is written in Markdown; follow the [VuePress Markdown documentation](https://vuepress.github.io/guide/markdown.html) for information on how to write markdown files for VuePress.
 
 ### Automated deployments
 
@@ -152,6 +163,4 @@ Please stay tuned on the steps to translate the documentation.
 - [@DannyS03](https://github.com/DannyS03): Technical writing(engineering) 
 - [@jennijuju](https://github.com/jennijuju): Management and supervision
 
-## License
-
-All software code is copyright (c) Protocol Labs, Inc. under the **MIT license**. Other written documentation and content are copyright (c) Protocol Labs, Inc. under the [**Creative Commons Attribution-Share-Alike License**](https://creativecommons.org/licenses/by/4.0/).
+## License All software code is copyright (c) Protocol Labs, Inc. under the **MIT license**. Other written documentation and content are copyright (c) Protocol Labs, Inc. under the [*Creative Commons Attribution-Share-Alike License**](https://creativecommons.org/licenses/by/4.0/).
