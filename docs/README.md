@@ -37,3 +37,4 @@ Are you developing with IPFS implementations and tools, and looking for technica
 ## Join the IPFS community
 
 IPFS has a bustling community of designers, developers, writers, and activists who are all helping to improve the project. Find out about the events and resources available, and how to get involved in the [Community section](./community/README.md)
+
